@@ -1,0 +1,8 @@
+.row{
+  display: flex;
+}
+
+.center-layout{
+    margin : auto;
+    min-width: 1456px;
+}
